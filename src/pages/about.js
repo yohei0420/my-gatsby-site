@@ -7,6 +7,7 @@ const AboutPage = () => {
       <p>Hi there! I'm the proud creator of this site, which I built with Gatsby.</p>
       <Link to="/nebuta"><p>ねぶた</p></Link>
       <Link to="/sansya"><p>三社</p></Link>
+      <Link to="/sample"><p>サンプル</p></Link>
     </Layout>
   )
 }
